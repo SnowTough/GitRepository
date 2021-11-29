@@ -1,3 +1,0 @@
-It is a test file.
-Add test file to a new branch named dev AND TEST
-Fixed the bug issue-101.
